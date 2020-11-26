@@ -8,7 +8,7 @@
 
 # Overview
 
-Bag is a music bot for discord with voice recognitition for commands. Completely made using Java, <a href="https://github.com/DV8FromTheWorld/JDA">JDA</a>, <a href="https://github.com/sedmelluq/lavaplayer">LavaPlayer</a> and <a href="https://github.com/wdavies973/VocalCord">VocalCord</a>.
+Bag is a music bot for discord with voice recognitition for commands. Completely made using Java and these libraries <a href="https://github.com/DV8FromTheWorld/JDA">JDA</a>, <a href="https://github.com/sedmelluq/lavaplayer">LavaPlayer</a> and <a href="https://github.com/wdavies973/VocalCord">VocalCord</a>.
 
 # Command list
 
